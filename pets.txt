@@ -9,3 +9,5 @@ chickens
 Motttons
 India
 Bhutan
+Pakistan
+Bangladesh
